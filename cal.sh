@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+#additiion
+x=1+2
+y= 3-4
